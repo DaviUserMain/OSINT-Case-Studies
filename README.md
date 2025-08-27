@@ -11,7 +11,8 @@ All investigations presented here are conducted for **educational** purposes. No
 
 ## 📂 Investigation Index
 
-* **[Case Study 01: Title of your first case]([https://github.com/DaviLuanMain/OSINT-Case-Studies/blob/main/caso-01/README.md](https://github.com/DaviUserMain/OSINT-Case-Studies/tree/main/case-01])**
+* **[Estudo de Caso 01: Investigando um Site Suspeito](./caso-01/README.md)**
+    * *Análise de um site fictício para determinar se é uma tentativa de phishing.*
 * *Brief description of what was investigated.*
 
 * **[Case Study 02: (Coming soon)]()**
