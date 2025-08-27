@@ -13,7 +13,4 @@ Todas as investigações aqui presentes são realizadas com fins **educacionais*
 ## 📂 Índice de Investigações
 
 * **[Estudo de Caso 01: Título do seu primeiro caso](https://github.com/DaviLuanMain/OSINT-Case-Studies/blob/main/caso-01/README.md)**
-    * *Breve descrição do que foi investigado.*
-
-* **[Estudo de Caso 02: (Em breve)]()**
-    * *...*
+    * *SECRET*
