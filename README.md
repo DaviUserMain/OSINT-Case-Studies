@@ -1,16 +1,16 @@
-# Estudos de Caso de OSINT
+# OSINT Case Studies
 
-Este repositório documenta investigações educacionais realizadas utilizando exclusivamente fontes de informação abertas e dados públicos. O objetivo é praticar e demonstrar metodologias de OSINT de forma estruturada.
-
----
-
-### ⚠️ Aviso Ético
-
-Todas as investigações aqui presentes são realizadas com fins **educacionais**. Nenhuma informação privada ou obtida por meios ilegais é utilizada. O foco está no processo de descoberta e na análise de informações publicamente acessíveis.
+This repository documents educational investigations conducted exclusively using open information sources and public data. The goal is to practice and demonstrate OSINT methodologies in a structured manner.
 
 ---
 
-## 📂 Índice de Investigações
+### ⚠️ Ethics Notice
 
-* **[Estudo de Caso 01: Título do seu primeiro caso](https://github.com/DaviLuanMain/OSINT-Case-Studies/blob/main/caso-01/README.md)**
-    * *SECRET*
+All investigations presented here are conducted for **educational** purposes. No private or illegally obtained information is used. The focus is on the discovery process and the analysis of publicly accessible information.
+
+---
+
+## 📂 Investigation Index
+
+* **[Case Study 01: Title of your first case](https://github.com/DaviLuanMain/OSINT-Case-Studies/blob/main/caso-01/README.md)**
+* *SECRET*
